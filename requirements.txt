@@ -1,0 +1,4 @@
+fsspec
+ujson
+xarray
+kerchunk
